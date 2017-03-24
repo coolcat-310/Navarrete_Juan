@@ -3,7 +3,7 @@
 My Own Personal website. Contains Sample works and live links. 
 ## Live Page
 
- https://coolcat-310.github.io/juan_navarrete/
+  https://coolcat-310.github.io/Navarrete_Juan/
 
 ## Contents
 
